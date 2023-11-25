@@ -24,5 +24,4 @@ func main() {
 	controller.DeleteTodoController(e, db)
 
 	e.Start(":8000")
-
 }
